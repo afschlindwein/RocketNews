@@ -1,0 +1,134 @@
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+  }
+
+body {
+    height: 640px;
+    viewport-fit: 100vh;
+    background-color: #121214;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.fundo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 1175;
+    height: 640px;
+    left: 376px;
+    top: 0px;
+    
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    width: 720px;
+    height: 640px;
+    font-family: "League spartan", sans-serif;
+    background-color: #121214;
+    left: 0px;
+    top: 0px;
+    margin: -8px;
+    padding: 30px
+}
+
+img.logo {
+    position: absolute;
+    width: 389px;
+    height: 94px;
+    left: 30px;
+    top: 50px;
+}
+
+
+h1 {
+    color: #04D361;
+    left: 36px;
+    top: 236px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+h2 {
+    color: #E1E1E6;
+    left: 36px;
+    top: 266px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+p {
+    color: #E1E1E6;
+    left: 36px;
+    top: 296px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+fieldset {
+    border: none;
+}
+
+form {
+    color: #A8A8A8;
+    left: 36px;
+    top: 366px;
+    position: absolute;
+}
+
+label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.73%;
+}
+
+input {
+    height: 23px;
+    margin: -4px;
+    border-left: #04D361;
+    border-style: ridge;
+    top: 6px;
+    position: relative;
+}
+
+button {
+    background-color: #8257e5;
+    border: none;
+    top: 11px;
+    position: relative;
+}
+
+a.pular {
+    color: #8257e5;
+    left: 36px;
+    top: 446px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.73%;
+}
+
+img.arrow {
+    top: 470px;
+}
